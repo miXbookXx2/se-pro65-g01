@@ -1,0 +1,651 @@
+[{
+  "_id": {
+    "$oid": "6353d193c6eee535f9ff2657"
+  },
+  "Name": "RMUTTO",
+  "category": "Univercity",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.56,
+      13.7785
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d360c6eee535f9ff2659"
+  },
+  "Name": "University of the Thai Chamber of Commerce",
+  "category": "Univercity",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5579012,
+      13.7785547
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d3bcc6eee535f9ff265b"
+  },
+  "Name": "Union Mall",
+  "category": "ShoppingMall",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5573765,
+      13.8133689
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d40bc6eee535f9ff265c"
+  },
+  "Name": "Veterans General Hospital",
+  "category": "Hospital",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5496385,
+      13.7721567
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d44fc6eee535f9ff265d"
+  },
+  "Name": "College of Management (CMMU) Mahidol University",
+  "category": "Univercity",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5476318,
+      13.7687448
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d4b6c6eee535f9ff265f"
+  },
+  "Name": "Surasak Montri School",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5530307,
+      13.7748474
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d520c6eee535f9ff2660"
+  },
+  "Name": "PTT Station Vibhavadi",
+  "category": "Gas station",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5448815,
+      13.8154169
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d555c6eee535f9ff2661"
+  },
+  "Name": "สถานีโทรทัศน์ PPTV HD 36",
+  "category": "TV station",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.558676,
+      13.8036813
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d5bcc6eee535f9ff2662"
+  },
+  "Name": "Thairath TV Station (CH 32)",
+  "category": "TV station",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5575938,
+      13.8032876
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d624c6eee535f9ff2665"
+  },
+  "Name": "Royal Thai Army Club",
+  "category": "Army Club",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5552975,
+      13.7845339
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d7acc6eee535f9ff2666"
+  },
+  "Name": "Suthisan Fire and Rescue Station",
+  "category": "fire station",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5597423,
+      13.7890131
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d809c6eee535f9ff2667"
+  },
+  "Name": "Territorial Defense School Military Student Center (Headquarters Center)",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5602881,
+      13.7840567
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d83ec6eee535f9ff2668"
+  },
+  "Name": "Pacific Thai Motorsports Co., Ltd. Wipha-Sutthisan",
+  "category": "Car dealer",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5595113,
+      13.7953052
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d87fc6eee535f9ff2669"
+  },
+  "Name": "Thai Airways Headquarters, Vibhavadi, Bangkok",
+  "category": "Airline",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5590486,
+      13.8058088
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d8b6c6eee535f9ff266a"
+  },
+  "Name": "BMW Barcelona Motor Vibhavadi",
+  "category": "BMW dealer",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5582335,
+      13.8088986
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d90cc6eee535f9ff266b"
+  },
+  "Name": "St. John's University",
+  "category": "Univercity",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5586442,
+      13.8105375
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d986c6eee535f9ff266c"
+  },
+  "Name": "Lamborghini Bangkok",
+  "category": "Lamborghini dealer",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5582747,
+      13.8073608
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d9b1c6eee535f9ff266d"
+  },
+  "Name": "Sangsom Building",
+  "category": "Company office",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.557762,
+      13.8011185
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353d9e7c6eee535f9ff266e"
+  },
+  "Name": "TOYOTA | Toyota Charoen Thai • Vibhavadi-Din Daeng",
+  "category": "Toyota dealer",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5520426,
+      13.7740878
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6353da7ec6eee535f9ff266f"
+  },
+  "Name": "MG Siwilai Vibhavadi",
+  "category": "Car dealer",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5572507,
+      13.7835138
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563396551448ec998a0c03"
+  },
+  "Name": "Victory Monument",
+  "category": "Victory Monument",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5579927,
+      13.7627396
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563477551448ec998a0c06"
+  },
+  "Name": "Phyathai 2 Hospital",
+  "category": "Hospital",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5439282,
+      13.7698378
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635634db551448ec998a0c07"
+  },
+  "Name": "Suki Tee Noi Victory Monument",
+  "category": "buffet restaurant",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5407193,
+      13.7655842
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563515551448ec998a0c08"
+  },
+  "Name": "Buffet Story - Buffet Story, Grilled Ko Khun, Talay Phao, Victory Monument",
+  "category": "buffet restaurant",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5443918,
+      13.763276
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563543551448ec998a0c09"
+  },
+  "Name": "Sriwanich Market",
+  "category": "Market",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5429632,
+      13.7625105
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6356356c551448ec998a0c0a"
+  },
+  "Name": "Wat Thasanarun Sunthikaram",
+  "category": "friary",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5417243,
+      13.7613922
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635635ab551448ec998a0c0b"
+  },
+  "Name": "Wat Tasanarun Sunthikaram School",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5390636,
+      13.7608469
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563697551448ec998a0c0c"
+  },
+  "Name": "Muhayirin Mosque (Din Daeng)",
+  "category": "mosque",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.549267,
+      13.7627709
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635636ca551448ec998a0c0d"
+  },
+  "Name": "Phibun Prachasan ",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5483097,
+      13.7628782
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6356370c551448ec998a0c0e"
+  },
+  "Name": "Bangkok Youth Center Thai-Japan (Thai-Japanese Stadium Din Daeng)",
+  "category": "sports center",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5519982,
+      13.7662581
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6356377d551448ec998a0c0f"
+  },
+  "Name": "Center One",
+  "category": "Market",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.539341,
+      13.7640034
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635637a4551448ec998a0c10"
+  },
+  "Name": "Wat Promwongsaram (Wat Luang Pho Noen)",
+  "category": "friary",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5603081,
+      13.7754152
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6356384f551448ec998a0c12"
+  },
+  "Name": "7-Eleven Pracha Songkhro 27 Branch",
+  "category": "convenience store",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5602988,
+      13.7766418
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6356386e551448ec998a0c13"
+  },
+  "Name": "RBIS International School, Bangkok",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5429327,
+      13.7674878
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563895551448ec998a0c14"
+  },
+  "Name": "Ministry of Labor",
+  "category": "Ministry of Social Welfare",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5511531,
+      13.7647609
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635638c3551448ec998a0c15"
+  },
+  "Name": "Office of the Narcotics Control Board",
+  "category": "government",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5485622,
+      13.766301
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635638fb551448ec998a0c16"
+  },
+  "Name": "Do Home Public Company Limited (Head Office)",
+  "category": "company office",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5499737,
+      13.7665986
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563938551448ec998a0c17"
+  },
+  "Name": "Bureau of Planning and Urban Development",
+  "category": "government",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5517195,
+      13.7679155
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563962551448ec998a0c18"
+  },
+  "Name": "Bangkok Employment Office Area 10",
+  "category": "Ministry of Social Welfare",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5602232,
+      13.7982043
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "6356399f551448ec998a0c1a"
+  },
+  "Name": "Sun Plaza Market 1",
+  "category": "Market",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5596128,
+      13.8078109
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635639b5551448ec998a0c1b"
+  },
+  "Name": "TTB, Phaholyothin Branch",
+  "category": "bank",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.559246,
+      13.8085503
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "635639e2551448ec998a0c1c"
+  },
+  "Name": "Bamboo Garden",
+  "category": "Thai restaurant",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5607503,
+      13.8134582
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563a4a551448ec998a0c1d"
+  },
+  "Name": "PTT gas station Pornprasert Service Co., Ltd. (2003)",
+  "category": "gas station",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5632666,
+      13.7829857
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563a63551448ec998a0c1e"
+  },
+  "Name": "Le Lait Home Cafe",
+  "category": " Cafe",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5627132,
+      13.7968324
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563a84551448ec998a0c1f"
+  },
+  "Name": "Securities and Exchange Commission (SEC)",
+  "category": "government",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5610788,
+      13.7939466
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563b1e551448ec998a0c20"
+  },
+  "Name": "FigureGround Cafe",
+  "category": "Cafe",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5616731,
+      13.7886347
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563b3e551448ec998a0c21"
+  },
+  "Name": "Royal Volunteer School",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5545967,
+      13.7793897
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563b7e551448ec998a0c22"
+  },
+  "Name": "Chief of Staff College",
+  "category": "college",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5608463,
+      13.7787403
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563bcb551448ec998a0c23"
+  },
+  "Name": "Amnuaypittaya School",
+  "category": "School",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5624064,
+      13.7746818
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63563bf5551448ec998a0c24"
+  },
+  "Name": "Cafe Amazon, University of the Thai Chamber of Commerce Branch",
+  "category": "Cafe",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      100.5601502,
+      13.7778098
+    ]
+  }
+}]
